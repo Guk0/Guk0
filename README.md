@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 <div align=center>
  <a href="https://github.com/Itsbeenalongday/github-stats">
   
- ![](https://raw.githubusercontent.com/guk0/github-stats/master/generated/overview.svg)
- ![](https://github.com/guk0/github-stats/blob/master/generated/languages.svg) 
+ <!-- ![](https://raw.githubusercontent.com/guk0/github-stats/master/generated/overview.svg)
+ ![](https://github.com/guk0/github-stats/blob/master/generated/languages.svg)  -->
 
  </a>
 
- ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abcgy39)
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guk0&count_private=true&layout=compact&theme=dracula)
+ ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abcgy39)
 
 </div>
 
